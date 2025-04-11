@@ -14,7 +14,6 @@
 <span style="color:#FF69B4;"><b>⚡ Fun fact: The first gigabyte drive cost $40,000!</b></span><br>
 <span style="color:#FFD700;"><b>❤️ Favorite quote: "Code is like humor. When you have to explain it, it's bad. "</b></span>
 
-
 <span style="color:#FFD700;"><b>❤️ Experience: "Design Team member at college club Geeks for Geeks "</b></span>
 <br> </br>
 
