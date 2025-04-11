@@ -1,3 +1,5 @@
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/edb9249c-6aaa-4b3b-8fa7-9f39f191c0c1)
+
 <!-- RGB Light Strip (Thick) -->
 <a href="https://github.com/NK-Works">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
